@@ -27,7 +27,7 @@ The empty `.nojekyll` file keeps this a plain static website. No custom domain i
 - `assets/styles.css`: responsive design and print styles.
 - `assets/app.js`: country/role filters, ranking switch, budget calculator, checklist and source search.
 - `assets/data.js`: generated country content, planning budgets and source directory.
-- `assets/horizon.svg`: original illustration; no stock-image license dependency.
+- `assets/athens.jpg`: Athens photograph by Florian Wehde, used under the Unsplash License (https://unsplash.com/photos/uBtAxsurY3s). `assets/horizon.svg` is the unused original illustration.
 - `research/research_*.json`: dated research snapshots with claim/source associations. These are research notes, not personal records.
 - `build_data.py`: regenerates browser data from the research snapshots using Python's standard library.
 - `VERIFY.md`: validation results and limits.

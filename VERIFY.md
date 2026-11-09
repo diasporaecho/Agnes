@@ -21,3 +21,7 @@ Checked November 8, 2026, against the delivered static source.
 ## Known content limitations
 
 Unknown personal facts are clearly separated from comparison assumptions. Not every school publishes pay, and not every country has a verified matching overseas vacancy. Government fee totals, processing times, insurance eligibility and citizenship outcomes are not guaranteed. Portugal's current nationality amendment is distinguished from outdated general help pages. The UAE regional-security advisory is flagged. Panama's inaccessible Friendly Nations PDF is flagged and linked via the working decree index.
+
+
+## Editorial redesign — November 9, 2026
+Replaced the pastel theme with charcoal, white and muted gold; added attributed local Athens photography. Verified desktop and 390px iframe layout, mobile navigation and calculator ($4,000 income minus $2,200 expenses = $1,800). No horizontal mobile overflow. Research and application logic unchanged. Print-specific styles retained; full PDF pagination not independently rendered.
